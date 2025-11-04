@@ -6,7 +6,6 @@
 | **NIM**         | 312310xxx                 |
 | **Kelas**       | TI.23.A.5                 |
 | **Mata Kuliah** | Pemrograman Visual        |
-| **Link Youtube** | https://youtu.be/xxxxx   |
 
 ---
 
